@@ -1,0 +1,3 @@
+tag:
+    resource: "@TagBundle/Controller/"
+    type: annotation
